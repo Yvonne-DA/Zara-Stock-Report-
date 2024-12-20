@@ -65,6 +65,8 @@ The following steps were performed in the Power Query Editor:
    - **Quantity by Sections:** Bar chart comparing MAN and WOMAN sections.
    - **Revenue by Product:** Horizontal bar chart of the top-performing products.
    - **Quantity by Seasons and Terms:** Donut and bar charts to segment quantities.
+     ![zara dashboard](https://github.com/user-attachments/assets/a9b89c96-3cff-486a-9400-aaa5b7454232)
+
 
 3. **Slicers:**
    - Product Name filter.
